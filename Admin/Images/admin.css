@@ -1,0 +1,50 @@
+a			{ text-decoration: none; color: #003366 }
+a:hover			{ text-decoration: underline } 
+
+body			{ scrollbar-base-color: #F8F8F8; scrollbar-arrow-color: #698CC3; font-size: 9pt; background-color: #FFFFFF }
+
+table			{ font-family: Tahoma, Verdana; font-size: 9pt; color: #000000 }
+textarea,input,select	{ font-family: Tahoma, Verdana; font-size: 9pt;  color: #000000; font-weight: normal; background-color: #F8F8F8 }
+select			{ font-family: Tahoma, Verdana; font-size: 9pt;  color: #000000; background-color: #F8F8F8 }
+
+#TableTitleLink A:link,#TableTitleLink A:visited{ text-decoration: none; color: #ffffff ;} 
+
+
+.a1{ font-family: Tahoma, Verdana; font-size: 9pt; color: #FFFFFF; font-weight: bold; background-color: #698CC3;}
+.a2{background: #D6E0EF; border: 1px solid #698CC3;} 
+.a3{BACKGROUND-COLOR: F8F8F8}
+.a4{BACKGROUND-COLOR: FFFFFF; COLOR: 000000}
+.a5{text-decoration: none; color: #ffffff ;}
+.a6{}
+
+
+
+.menuskin {
+	BORDER-RIGHT: #999999 1px solid;
+	BORDER-TOP: #eeeeee 1px solid;
+	BORDER-LEFT: #eeeeee 1px solid;
+	BORDER-BOTTOM: #999999 1px solid;
+	BACKGROUND-IMAGE: url(menubg.gif);
+	FILTER: alpha(opacity=85)progid:DXImageTransform.Microsoft.Shadow(Color=#999999,Direction=120,strength=4);
+	POSITION: absolute;
+	VISIBILITY: hidden;
+}
+.menuitems {
+	PADDING-RIGHT: 1px;
+	PADDING-TOP: 1px;
+	PADDING-LEFT: 1px;
+	PADDING-BOTTOM: 1px;
+	MARGIN: 2px;
+	font-size:9pt;
+	line-height:14pt;
+}
+#mouseoverstyle {
+	PADDING-RIGHT: 1px;
+	PADDING-LEFT: 1px;
+	PADDING-BOTTOM: 1px;
+	PADDING-TOP: 1px;
+	BACKGROUND-COLOR: #698CC3;
+}
+#mouseoverstyle A:hover {COLOR:ffffff;TEXT-DECORATION: none}
+.menuskin A {PADDING-RIGHT:20px;PADDING-LEFT:10px;}
+  
